@@ -1,0 +1,21 @@
+.mis-materias{
+    padding: 0 0;
+}
+
+.mis-materias h2{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.contenedor-materias{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 3rem;
+
+    min-width: 300px;
+    height: auto;
+    /*background-color: rgb(212, 255, 255);
+    border: 1px solid #202020;*/
+}
+

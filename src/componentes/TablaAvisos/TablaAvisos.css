@@ -1,0 +1,21 @@
+.tabla-avisos{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tabla-avisos tr {
+    height: 3rem;
+}
+
+.tabla-avisos tr:hover{
+    background-color: #f59e6f;
+    cursor: pointer;
+}
+
+.tabla-avisos tr td{
+    font-size: 1.3rem;
+    line-height: 2rem;
+
+    padding: 0.5rem;
+}
+
